@@ -41,13 +41,6 @@
           "sha256": null,
           "tag": "v1.4.0",
           "path": null
-        },
-        {
-          "type": "file",
-          "url": null,
-          "sha256": null,
-          "tag": null,
-          "path": "codes.merritt.bargain.metainfo.xml"
         }
       ]
     }
