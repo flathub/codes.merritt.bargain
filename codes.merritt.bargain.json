@@ -27,13 +27,13 @@
       "sources": [
         {
           "type": "file",
-          "url": "https://github.com/Merrit/unit_bargain_hunter/releases/download/v1.4.1/UnitBargainHunter-Linux-Portable.tar.gz",
-          "sha256": "feaceefb0c3d2faa28bc543b82b6af22fa740dc343553d4f1f323c27eff6c442"
+          "url": "https://github.com/Merrit/unit_bargain_hunter/releases/download/v1.5.0/UnitBargainHunter-Linux-Portable.tar.gz",
+          "sha256": "40aa13a0eab697db6c7640cedfa3ee3e231f25fb50f780c7ce4067bf7af681c6"
         },
         {
           "type": "git",
           "url": "https://github.com/Merrit/unit_bargain_hunter.git",
-          "tag": "v1.4.1"
+          "tag": "v1.5.0"
         },
         {
           "type": "file",
