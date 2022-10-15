@@ -50,6 +50,10 @@
   </screenshots>
   <content_rating type="oars-1.1"/>
   <releases>
-    <release version="1.8.0" date="2022-10-07"/>
+    <release version="1.9.1" date="2022-10-15">
+      <description>
+        <p>- Minor fix for release store</p>
+      </description>
+    </release>
   </releases>
 </component>
