@@ -50,22 +50,6 @@
   </screenshots>
   <content_rating type="oars-1.1"/>
   <releases>
-    <release version="1.10.0" date="2023-01-16">
-      <description>
-        <p>&lt;!-- Release notes generated using configuration in .github/release.yml at v1.10.0 --></p>
-        <p></p>
-        <p>## What's Changed</p>
-        <p>### New Features 🎉</p>
-        <p>* Add Localizations for English &amp; German by @Merrit in</p>
-        <p>* Added Italien translations by @albanobattistella in</p>
-        <p>### Other Changes</p>
-        <p>* Code cleanup</p>
-        <p></p>
-        <p>## New Contributors</p>
-        <p>* @albanobattistella made their first contribution in</p>
-        <p></p>
-        <p>**Full Changelog**:</p>
-      </description>
-    </release>
+    <release version="1.4.1" date="2022-06-03"/>
   </releases>
 </component>
