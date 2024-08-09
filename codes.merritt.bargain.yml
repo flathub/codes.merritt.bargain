@@ -27,10 +27,10 @@ modules:
       - ./build-flatpak.sh
     sources:
       - type: file
-        url: https://github.com/Merrit/unit_bargain_hunter/releases/download/v1.15.0/UnitBargainHunter-Linux-Portable.tar.gz
-        sha256: 6ce5db62e47f987cd7fd0f18e0367f48a30d61d3be237b3101121befd9f7d111
+        url: https://github.com/Merrit/unit_bargain_hunter/releases/download/v1.16.0/UnitBargainHunter-Linux-Portable.tar.gz
+        sha256: 1ab6e52f91d4373dbbbedd79735c2f843823dc18fba68cf63deca55e566694da
       - type: git
         url: https://github.com/Merrit/unit_bargain_hunter.git
-        commit: c15a83c2a5e68a9a6584090e369da550d4bd43f6
+        commit: 4c26fae3edefa265226065892b8e787d06b2c4b6
       - type: file
         path: build-flatpak.sh
